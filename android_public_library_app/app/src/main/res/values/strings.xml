@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Kisa_Library</string>
+    <string name="loading_failed">로딩에 실패하였습니다. 잠시후 다시 시도해주세요.</string>
+    <string name="register_text">회원가입</string>
+    <string name="login_text">로그인</string>
+    <string name="login_title_text">통합 도서관 로그인</string>
+    <string name="auto_login">자동로그인</string>
+    <string name="qr_result_error">값을 받지 못했습니다.</string>
+    <string name="project_key">hooneys_public_client_db</string>
+</resources>
